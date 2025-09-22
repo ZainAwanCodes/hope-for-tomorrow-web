@@ -1,6 +1,6 @@
 import React from 'react';
 import { Heart, ArrowRight } from 'lucide-react';
-import heroImage from '@/assets/hero-image.jpg';
+import heroImage from '@/assets/hero-image-real.jpg';
 
 const HeroSection = () => {
   return (
