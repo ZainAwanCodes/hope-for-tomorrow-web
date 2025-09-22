@@ -7,6 +7,7 @@ import ImpactSection from '@/components/sections/ImpactSection';
 import StoriesSection from '@/components/sections/StoriesSection';
 import ContactSection from '@/components/sections/ContactSection';
 import Footer from '@/components/ui/footer';
+import FloatingCTA from '@/components/ui/floating-cta';
 
 const Index = () => {
   return (
@@ -21,6 +22,7 @@ const Index = () => {
         <ContactSection />
       </main>
       <Footer />
+      <FloatingCTA />
     </div>
   );
 };
